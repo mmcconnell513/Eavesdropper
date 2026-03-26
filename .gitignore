@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Virtual environments
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Runtime data
+data/seen_jobs.json
+
+# Playwright artifacts
+playwright-report/
+test-results/
+
+# OS
+.DS_Store
