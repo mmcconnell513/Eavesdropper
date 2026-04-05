@@ -1,6 +1,6 @@
 # Job Board Monitor
 
-Eavesdropper is a Python automation tool that scans JavaScript-rendered career sites with Playwright, filters openings by target role keywords, tracks newly discovered postings over time, and generates a delta-only report.
+Job Monitor is a Python automation tool that scans JavaScript-rendered career sites with Playwright, filters openings by target role keywords, tracks newly discovered postings over time, and generates a delta-only report.
 
 It is designed for practical monitoring of modern employer job boards that do not expose reliable static HTML or clean feeds.
 
